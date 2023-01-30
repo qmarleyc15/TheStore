@@ -1,0 +1,100 @@
+[
+    {
+        "name": "Doggo",
+        "description": "Soft Doggy Plush",
+        "price": 12,
+        "image": "images/doggie.png",
+        "battreq": "no",
+        "playspace": "indoors"
+     },
+    {
+        "name": "Blue's Clues",
+        "description": "Blue's Clues cute plush",
+        "price": 15,
+        "image": "images/bluesclues.png",
+        "battreq": "no",
+        "playspace": "indoors"
+    },
+    {
+        "name": "Barbie",
+        "description": "Cute Barbie Doll",
+        "price": 20,
+        "image": "images/barbara.jpeg",
+        "battreq": "no",
+        "playspace": "indoors"
+    },
+    {
+        "name": "Spring Toy",
+        "description": "Little cute spring toy",
+        "price": 21,
+        "image": "images/springy.jpeg",
+        "battreq": "yes",
+        "playspace": "indoors"
+    },
+    {
+        "name": "Computer Toy",
+        "description": "A fun fake computer toy!",
+        "price": 25,
+        "image": "images/fisher_price_computer.jpeg",
+        "battreq": "yes",
+        "playspace": "indoors"
+    },  
+    {
+        "name": "Giraffe Plush",
+        "description": "A cute little giraffe",
+        "price": 42,
+        "image": "images/giraffetoy.jpeg",
+        "battreq": "no",
+        "playspace": "indoors"
+    },
+    {
+      "name": "Bull",
+      "description": "Cute Bull Plush",
+      "price": 50,
+      "image": "images/Bulltoy.png",
+      "battreq": "no",
+      "playspace": "indoors"
+    },
+    {
+        "name": "Shark",
+        "description": "Sharky plush",
+        "price": 60,
+        "image": "images/Sharktoy.png",
+        "battreq": "no",
+        "playspace": "outdoors"
+      },
+    {
+        "name": "Octopus Puff",
+        "description": "Cute octopus plush",
+        "price": 65,
+        "image": "images/octupss.jpeg",
+        "battreq": "no",
+        "playspace": "indoors"
+    },
+    {
+        "name": "John Deere Truck",
+        "description": "Mini John Deere Truck",
+        "price": 250,
+        "image": "images/jdeeeere.jpg",
+        "battreq": "yes",
+        "playspace": "outdoors"
+      },
+    {
+      "name": "Robot",
+      "description": "Weird Robot",
+      "price": 600,
+      "image": "images/idkwhatthisis.jpeg",
+      "battreq": "yes",
+      "playspace": "indoors"
+    },
+    
+    {
+      "name": "Little Car",
+      "description": "A little car to ride around in",
+      "price": 799,
+      "image": "images/uglycar.jpeg",
+      "battreq": "yes",
+      "playspace": "outdoors"
+    }
+    
+  ]
